@@ -2,6 +2,7 @@
 
 
 ############################ CLIENT OPTIONS ##########################################
+# this is for testing
 #TXRX_FREQUENCY = 1000.0
 
 STARTUP_NANOKONTROL = True
